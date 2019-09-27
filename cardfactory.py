@@ -1,9 +1,3 @@
-"""
-Knexus Python Programming test
-
-Author: JT
-"""
-
 import card
 import deck
 
