@@ -1,0 +1,10 @@
+After simulating the game 10000 times, the average number of iterations i.e
+number of times play_round is called per call to play_game is 463.9047
+
+
+After simulating the game 10000 times,the average number of iterations i.e
+number of times play_round is called per call to play_game is 462.3138.
+
+
+After simulating the game 10000 times, the average number of iterations i.e
+number of times play_round is called per call to play_game is 459.6911
