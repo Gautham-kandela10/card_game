@@ -1,8 +1,3 @@
-"""
-Knexus Python Programming test
-
-Author: JT
-"""
 
 
 class Card(object):
