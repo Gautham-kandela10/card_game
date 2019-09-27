@@ -1,8 +1,4 @@
-"""
-Knexus Python Programming test
 
-Author: JT
-"""
 import cardfactory as cardfact
 import card as card
 import deck as deck
