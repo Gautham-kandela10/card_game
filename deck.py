@@ -1,8 +1,3 @@
-"""
-Knexus Python Programming test
-
-Author: JT
-"""
 
 from random import shuffle
 
